@@ -18,7 +18,6 @@ Additions to the project should be independent and idempotent (producing the sam
 
 Extension History -------------------- 
 
-  * icg_csv_import.sh - Adds and enables the 'development' branch of https://github.com/DigitalGrinnell/icg_csv_import.git  2016-09-16 MM
   * scg.sh - Adds and invokes Mark Jordan's Sample Content Generator module. 2016-03-28 MM
   * theme.sh - Adds ability to download, enable and set a default theme from Drupal.org or via Git. 2016-03-28 MM
   * icu.sh - Adds the Islandora Common Utilities (ICU) module from Digital Grinnell. 2016-03-29 MM
